@@ -1,7 +1,7 @@
 ### Hi there, Ramonn Rocha dev 👋
 
 - 🔭 Estou atualmente procurando novos desafios
-- 🌱 Estudando mais React/Flutter..
+- 🌱 Estudando agora React/Flutter..
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
