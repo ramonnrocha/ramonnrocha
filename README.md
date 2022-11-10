@@ -20,8 +20,8 @@
 
 
 <div> 
-  <a href="https://www.instagram.com/ramonnrocha_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://portifolio-beige-nu.vercel.app/" target="_blank">Portifólio</a> 
+  <a href="https://www.instagram.com/ramonnrocha_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><img src="https://img.shields.io/twitter/url?label=Portif%C3%B3lio&style=for-the-badge&url=https%3A%2F%2Fportifolio-beige-nu.vercel.app%2F" target="_blank"></a>
+ <a href="https://portifolio-beige-nu.vercel.app/" target="_blank"></a> 
   <a href = "mailto:ramonnsantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a targer="_blank"href="https://www.linkedin.com/in/ramonn-rocha-santana-049173214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
