@@ -31,9 +31,3 @@
 </div>
 
 
- 
-
-  return {
-    props: { meiId }
-  }
-}
