@@ -1,7 +1,7 @@
 ### Hi there, Ramonn Rocha dev 👋
 
 - 📱 React Native
-- 🌟 React JS
+- 🌟 Back-End
 - 🌆 Front-End
 
 <div align="center">
