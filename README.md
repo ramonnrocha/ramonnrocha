@@ -1,6 +1,6 @@
-### Hi there, Ramonn Rocha dev 👋
+### Olá Rede, Ramonn Rocha 👋
 
-- 📱 React Native
+- 📱 Desenvolvimento Mobile
 - 🌟 Back-End
 - 🌆 Front-End
 
